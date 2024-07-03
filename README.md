@@ -1,6 +1,6 @@
-# ShopProLimiteSellMaker
+# ShopProLimitSellMaker
 
-一个简易生成器(为ShopPro插件的LimiteSell功能做)
+一个简易生成器(为ShopPro插件的LimitSell功能做)
 
 啊不 主要原因还是我所管理的服务器的腐竹要搞这个功能 懒得照模版复制、改了 就用c++写了这个东西
 
