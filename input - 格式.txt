@@ -1,0 +1,7 @@
+[name (不要有空格)]
+[title]
+[number  max:21]
+[有没有上一页 yes/no] [yes:上一页的name  no:不写这一空]
+[有没有下一页 yes/no] [yes:下一页的name  no:不写这一空]
+
+[material(大写)] [name] [limit-day] [limit-player] [price]
