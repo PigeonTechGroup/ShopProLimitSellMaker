@@ -73,7 +73,7 @@ int main()
         double price;
         cin>>limit_day>>limit_player>>price;
         cout<<"    limit: "<<limit_day<<"\n    limit-player: "<<limit_player<<"\n    price: "<< price <<"\n";
-        cout<<"    lore:\n      - '&e| &7这里可以出售你背包里面的&6 ${name}'\n      - '&e| &7收购单价 &6${price}'\n      - '&e| &7你的余额 &6${money}'\n      - ''\n      - '&e|&6 左击 &7出售 &6单个'\n      - '&e|&6 右击 &7出售 &6一组 &7获得 &6${price64}'\n      - '&e|&6 Shift + 右击 &7出售 &6背包所有 &7获得${priceAll}'\n      - ''\n      - '&e| &7限售公示:'\n      - '&e| &7每人限制出售: ${limit}'\n      - '&e| &7全服限制出售: ${allLimit}'\n      - '&e| &7您已出售: ${limit-player}'\n      - '&e| &7全服剩余: ${limit-server}'\n";
+        cout<<"    lore:\n      - '&e| &7这里可以出售你背包里面的&6 ${name}'\n      - '&e| &7收购单价 &6${price}'\n      - '&e| &7你的余额 &6${money}'\n      - ''\n      - '&e|&6 左击 &7出售 &6单个'\n      - '&e|&6 右击 &7出售 &6一组 &7获得 &6${price64}'\n      - '&e|&6 Shift + 右击 &7出售 &6背包所有 &7获得${priceAll}'\n      - ''\n      - '&e| &7限售公示:'\n      - '&e| &7每人限制出售: ${limit}'\n      - '&e| &7全服限制出售: ${allLimit}'\n      - '&e| &7您还可以出售: ${limit-player}'\n      - '&e| &7全服剩余: ${limit-server}'\n";
     }
     return 0;
 }
